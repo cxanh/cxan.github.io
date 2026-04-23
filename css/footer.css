@@ -2,13 +2,13 @@
 #footer {
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.3);
   border-top: 1px solid rgba(255, 255, 255, 0.3);
 }
 
 /* 深色模式页脚 */
 [data-theme="dark"] #footer {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.3);
   border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
